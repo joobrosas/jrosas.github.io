@@ -7,4 +7,6 @@ color: #000000;
   line-height: 1.4em; 
   background-image: url("page-bg.gif");  
  background-color: #F7F3DE;
+ background-repeat: no-repeat;
+ background-attachment: fixed;   
 }
