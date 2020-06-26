@@ -56,7 +56,7 @@ nav a:hover {
 }
 
 article {
-  background-image: (¨trans-bg.gif¨);
+  background-image: url(¨trans-bg.gif¨);
   borderL 1px solid #ccc;
    margin-left: 180px;
    padding: 10px;
@@ -83,7 +83,7 @@ h2{
 }
 
 h3{
-  backfround-image: header-star-1.gif;
+  backfround-image: url(¨header-star-1.gif¨);
   background-repeat: no-repeat;
   padding-left: 20px;
 }
