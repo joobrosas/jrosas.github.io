@@ -83,7 +83,7 @@ h2{
 }
 
 h3{
-  backfround-image: ("header-star-1.gif");
+  backfround-image: url("header-star-1.gif");
   background-repeat: no-repeat;
   padding-left: 20px;
 }
